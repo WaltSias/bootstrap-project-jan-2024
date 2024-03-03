@@ -43,3 +43,4 @@ Author: Walter Sias, walt.sias@gmail.com
 - https://getbootstrap.com/
 - https://www.w3schools.com/cssref/sel_class.php
 - https://www.w3schools.com/js/js_functions.asp
+- https://developer.mozilla.org/en-US/
