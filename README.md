@@ -10,7 +10,7 @@ It contains three pages:
 
 * index.html - the home page
 * about.html - the about me page
-* ______.html - _________ 
+* gallery.html - photos 
 
 
 
@@ -25,19 +25,20 @@ It contains three pages:
 ## Roadmap
 
 - [x] index.html
-- [ ] about.html
-- [ ] Bootstrap List Group
-- [ ] Bootstrap Card Component
-- [ ] Bootstrap Grid
-- [ ] ______________
-- [ ] Bootstrap Utility Class
+- [x] about.html
+- [x] Bootstrap List Group
+- [x] Bootstrap Card Component
+- [x] Bootstrap Grid (row & col)
+- [x] Javascript Button
+- [x] Bootstrap Utility Class
+- [x] Added gallery.html
 
 
 ## Contact
 
-Author: 
+Author: Walter Sias, walt.sias@gmail.com
 
-## Acknowledgements
+## Acknowledgements : Added html files, bootstrap CDN, also custom boostrap from w3 schools, and I used float and responsive utlities 
 
 - https://getbootstrap.com/
 - https://www.w3schools.com/cssref/sel_class.php
