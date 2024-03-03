@@ -4,13 +4,14 @@ This is a website built with Bootstrap. It demonstrates Bootstrap Components and
 
 ## About
 
-This is a website about...
+This is a website about Pasta
 
 It contains three pages:
 
-* index.html - the home page
+* index.html - the Main page
 * about.html - the about me page
 * gallery.html - photos 
+* grid.html - Grids showcase
 
 
 
@@ -38,7 +39,7 @@ It contains three pages:
 
 Author: Walter Sias, walt.sias@gmail.com
 
-## Acknowledgements : Added html files, bootstrap CDN, also custom boostrap from w3 schools, and I used float and responsive utlities 
+## Acknowledgements : Added html files, bootstrap CDN, also custom boostrap from w3 schools, and I used float and responsive utlities. 
 
 - https://getbootstrap.com/
 - https://www.w3schools.com/cssref/sel_class.php
